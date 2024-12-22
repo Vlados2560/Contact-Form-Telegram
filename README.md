@@ -1,2 +1,2 @@
 # Contact-Form-Telegram
-My first project on GitHub
+Contact form to fill out for Telegram
